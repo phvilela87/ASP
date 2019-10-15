@@ -1,15 +1,13 @@
 # ASP
 
-Projects employing Atmel microcontrollers
-
 Projetos para implementação de comunicação serial (UART) usando as seguintes configurações:
 
-##UART (Polling)
+## UART (Polling)
 
 1. Interface UART usando a mesma portal serial utilizada para alimentar/gravar o uC (EDBG);
 2. Interface UART usando um pino qualquer do uC;
 
-##UART (Callback)
+## UART (Callback)
 
 1. Interface UART usando a mesma portal serial utilizada para alimentar/gravar o uC (EDBG);
 2. Interface UART usando um pino qualquer do uC;
